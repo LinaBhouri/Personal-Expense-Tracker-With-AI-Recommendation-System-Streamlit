@@ -1,0 +1,6 @@
+streamlit
+pandas
+altair
+openpyxl
+#ollama (installed locally)
+#llama3.1:8b(installed locally)
